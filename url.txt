@@ -1,0 +1,1 @@
+https://medium.com/@floresgabriela/tutorial-de-utilização-do-padrão-hl7-fhir-para-troca-de-mensagens-de-sistemas-em-java-335907ca71c6
